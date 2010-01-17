@@ -1,0 +1,8 @@
+This is my collection of symbols for the gEDA suite.
+
+
+
+I follow these guides when creating symbols and footprints.
+
+ * http://www.geda.seul.org/wiki/geda:gschem_symbol_creation
+ * http://www.geda.seul.org/wiki/geda:master_attributes_list#device
