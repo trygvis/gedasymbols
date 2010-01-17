@@ -312,15 +312,19 @@ pinseq=28
 }
 T 4195 6100 8 10 1 1 0 6 1
 refdes=U?
-T 400 6550 5 10 0 0 0 0 1
-device=PIC16LF726
-T 400 6750 5 10 0 0 0 0 1
-footprint=DIP28
 T 400 6950 5 10 0 0 0 0 1
-numslots=0
+device=PIC16LF726
 T 400 7150 5 10 0 0 0 0 1
-description=28-Pin Flash Microcontrollers with nanoWatt XLP Technology
+footprint=DIP28
 T 400 7350 5 10 0 0 0 0 1
+numslots=0
+T 400 7550 5 10 0 0 0 0 1
+description=28-Pin Flash Microcontrollers with nanoWatt XLP Technology
+T 400 7750 5 10 0 0 0 0 1
 documentation=http://ww1.microchip.com/downloads/en/DeviceDoc/41341E.pdf
-T 400 6350 5 10 0 0 0 0 1
+T 400 6750 5 10 0 0 0 0 1
 dist-license=Apache Software License, version 2
+T 400 6550 5 10 0 0 0 0 1
+use-license=unlimited
+T 400 6350 5 10 0 0 0 0 1
+author=trygvis@inamo.no
